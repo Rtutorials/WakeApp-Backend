@@ -2,8 +2,7 @@
 
 For the ITC transportation hackathon we built WakeApp: It detects if a driver has fallen asleep at the wheel and wakes them up. We won first prize! 🥇
 
-Take a look at our presentation video! 
-https://www.youtube.com/watch?v=fTslVKN8JVU
+Take a look at our presentation <a href=https://youtu.be/fTslVKN8JVU>Video!</a> 
 
 
 <img width="565" alt="Screen Shot 2022-03-12 at 8 30 34 PM" src="https://user-images.githubusercontent.com/19825656/158030294-e58abad5-df45-4a3c-8e6a-01ff1061ddcb.png">
